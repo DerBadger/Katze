@@ -1,2 +1,0 @@
-# Katze
-Testkatze²
