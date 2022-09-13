@@ -1,0 +1,5 @@
+module-info.class
+TestPackage\MavenPorj\PrimaryController.class
+TestPackage\MavenPorj\App.class
+TestPackage\MavenPorj\appReferences.class
+TestPackage\MavenPorj\SecondaryController.class
